@@ -28,6 +28,7 @@ class AllConcepts {
 //      - Un-comment them (CTRL+/) to have them run
 //      - NOT ALL OF THEM RUN! IT'S PRIMARILY TO LOOK AT!! (Ones that have 'System.out.println' can run and produce output!)
 //      - CTRL + Click a method call to go to the method
+//        PLEASE NOTE: All methods are static as they are referenced from the main, and as such are being referenced from a static context, and as such need to be static themselves
 
 //-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 //        PRIMITIVE EXAMPLES
