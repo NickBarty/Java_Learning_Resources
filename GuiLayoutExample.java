@@ -123,7 +123,7 @@ public class GuiLayoutExample extends JFrame implements KeyListener {
 //        Best practise of calling another class from within the layout class is to:
 //          1) Have a method in the layout class that is attached to an 'actionListener' (like this method is)
 //          2) Have that method call 'YourClass.yourMethod();'
-        AllConcepts.guiDifferentClassCallExample();
+        AllConceptExamples.guiDifferentClassCallExample();
     }
 
     @Override
@@ -143,7 +143,7 @@ public class GuiLayoutExample extends JFrame implements KeyListener {
 //        This example uses a static method within a different class.
 //        This is an advantage of key input, you don't have to have a method in this class that calls another method in a different class like JMenu components do
         if (c == '2') {
-            AllConcepts.guiDifferentClassCallExample();
+            AllConceptExamples.guiDifferentClassCallExample();
         }
 //        If you want more keys to execute the same or different methods just add more 'if' conditions with different keys
     }

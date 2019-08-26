@@ -1,7 +1,7 @@
 class CallMethodsFromOtherClassesExample {
     public static void main(String[] args) {
 //        State the class you want the method from, then call the method you want
-        AllConcepts.operatorExamples();
+        AllConceptExamples.operatorExamples();
 
 //-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 //        Declare and assign an ExampleObjectClass object

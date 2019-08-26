@@ -6,7 +6,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 @SuppressWarnings("unused")
-class AllConcepts {
+class AllConceptExamples {
 //-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 //    ACCESS LEVEL SPECIFIER EXAMPLES:
 
