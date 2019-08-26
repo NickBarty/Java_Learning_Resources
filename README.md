@@ -1,7 +1,7 @@
 # Java Essential Learning Resources
 This repo is an essential Java learning resources that has been created by **[Nick Barty](https://github.com/nickbarty)**
 
-###IMPORTANT:   
+##IMPORTANT:   
 
 The point of this repo is to **read and understand** the code so you can conceptualise how you can extrapolate the constructs into your own projects
 
