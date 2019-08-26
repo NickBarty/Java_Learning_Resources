@@ -2,7 +2,6 @@
 This repo is an essential Java learning resources that has been created by **[Nick Barty](https://github.com/nickbarty)**
 
 #IMPORTANT:   
-
 The point of this repo is to **read and understand** the code so you can conceptualise how you can extrapolate the constructs into your own projects
 
 The repo contains many examples of basic Java constructs, all of which can be found in the **_[AllConceptExampls](https://github.com/NickBarty/Java_Learning_Resources/blob/master/AllConcepts.java)_** class
